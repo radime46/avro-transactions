@@ -12,5 +12,5 @@ wheels/
 data/
 *.csv
 *.avro
-*.png
+
 *.jpg
